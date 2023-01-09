@@ -7,7 +7,7 @@
     "@sendgrid/mail": "^7.2.6",
     "async": "^3.2.0",
     "bcrypt": "^5.0.0",
-    "cookie-session": "^1.4.0",
+    "cookie-session": "^2.0.0",
     "cors": "^2.8.5",
     "cross-env": "^7.0.2",
     "dotenv": "^8.2.0",
